@@ -9,6 +9,7 @@ public class userpojo {
     String password;
     String phone;
     int userStatus = 0;
+    int userStatus1 = 0;
 
     
 	int id;
